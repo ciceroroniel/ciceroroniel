@@ -8,7 +8,7 @@
 
 ## Eae meu povo!!👋
 
-Meu nome é Cícero Roniel, Formado em Sistemas de Informação e apaixonado por Desenvolvimento.
+Meu nome é Cícero Roniel, Formado em Sistemas de Informação.
 
 - :man_technologist: Trabalhando como Desenvolvedor Salesforce na **G4Flex - Business and Services**
 - :blue_heart: Techs: Node.js, PHP(Laravel), Salesforce(Com foco em Apex, LWC, Config de ambiente), !
