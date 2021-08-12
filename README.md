@@ -23,5 +23,5 @@ Meu nome é Cícero Roniel, Formado em Sistemas de Informação.
     <img src='./2cb1e61a5ef594182a9a6a0b26862b5f_badge.png' height='80px'>
     <img src='./c7717008150574ed92fa7f5ea8d9d213_badge.png' height='80px'>
     <img src='./e4f8cec0ddd1f90075424aa2c8b41d68_badge.png' height='80px'>
-    <img src='./2cb1e61a5ef594182a9a6a0b26862b5f_badge.png' height='80px'>
+    <img src='./2c0777d1847dfb7dcb0430a20b7c1538_badge.png' height='80px'>
 <p>
