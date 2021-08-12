@@ -16,4 +16,9 @@ Meu nome é Cícero Roniel, Formado em Sistemas de Informação.
 
 > :octocat: [https://ciceroroniel.github.io/curriculo/](https://ciceroroniel.github.io/curriculo/)
 
----
+
+<p>
+    <img src='./ranger.png' height='80px'>
+    <img src='./apex.png' height='80px'>
+    <img src='./lwc.png' height='80px'>
+<p>
