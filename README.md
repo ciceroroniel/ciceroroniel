@@ -11,7 +11,7 @@
 Meu nome é Cícero Roniel, Formado em Sistemas de Informação.
 
 - :man_technologist: Desenvolvedor Salesforce 
-- :blue_heart: Techs:  Salesforce(Com foco em Apex, LWC, Config de ambiente), !
+- :blue_heart: Techs: JS, HTML, CSS, Salesforce(Com foco em Apex, LWC, Config de Org) !
 - :books: Estudando sobre Salesforce, AWS, POO, Inglês  :heart:
 
 > :octocat: [https://ciceroroniel.github.io/curriculo/](https://ciceroroniel.github.io/curriculo/)
